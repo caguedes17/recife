@@ -1,6 +1,7 @@
 image{
     display: flex;
     background-color: aliceblue;
+    justify-content: space-between;
 }
 .pontos {
     width: 300px;
@@ -38,6 +39,7 @@ p {
     margin-left: auto;
     margin-right:auto;
     display: flex;
+    justify-content: space-around;
     width: 6rem;
     height: 6rem;
     text-decoration: none; 
